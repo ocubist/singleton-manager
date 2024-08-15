@@ -24,7 +24,7 @@
     "typescript": "^5.5.3"
   },
   "dependencies": {
-    "@ocubist/error-alchemy": "^0.9.1",
-    "@ocubist/utils": "^0.5.8"
+    "@ocubist/error-alchemy": "^0.9.3",
+    "@ocubist/utils": "^0.6.2"
   }
 }
